@@ -12,5 +12,4 @@ class Dispatch extends Base {
     protected $providers = [
         ProductServiceProvider::class
     ];
-
 }
