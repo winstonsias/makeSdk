@@ -1,5 +1,5 @@
 <?php
-namespace MarketSdk\Core;
+namespace MakeSdkTest\Core;
 use Winston\MaketSdk\Base\AbstractAPI;
 
 class Api extends AbstractAPI {

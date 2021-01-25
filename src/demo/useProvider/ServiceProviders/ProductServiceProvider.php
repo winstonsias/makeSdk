@@ -1,6 +1,6 @@
 <?php
-namespace MarketSdk\ServiceProviders;
-use MarketSdk\Product\Product;
+namespace MakeSdkTest\ServiceProviders;
+use MakeSdkTest\Product\Product;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 

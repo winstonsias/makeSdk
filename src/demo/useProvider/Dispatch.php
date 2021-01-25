@@ -1,6 +1,6 @@
 <?php
-namespace MarketSdk;
-use MarketSdk\ServiceProviders\ProductServiceProvider;
+namespace MakeSdkTest;
+use MakeSdkTest\ServiceProviders\ProductServiceProvider;
 use Winston\MaketSdk\Base\Base;
 
 /**

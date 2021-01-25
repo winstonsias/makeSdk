@@ -1,6 +1,7 @@
 <?php
-namespace MarketSdk\Product;
-use MarketSdk\Core\Api;
+namespace MakeSdkTest\Product;
+
+use MakeSdkTest\Core\Api;
 
 class Product extends Api {
 
