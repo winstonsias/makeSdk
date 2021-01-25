@@ -1,0 +1,21 @@
+{
+    "name": "winston/make_sdk",
+    "description": "make_sdk",
+    "authors": [
+        {
+            "name": "winstonsias",
+            "email": "winstonsias@qq.com"
+        }
+    ],
+    "require": {
+        "pimple/pimple": "^3.0",
+        "symfony/http-foundation": "^3.3|^4.0|^5.0",
+        "guzzlehttp/guzzle": "^6.2|^7.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Winston\\MakeSdk\\": "src/"
+        }
+    }
+}
