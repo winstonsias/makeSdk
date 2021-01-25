@@ -1,7 +1,7 @@
 <?php
 namespace MakeSdkTest;
 use MakeSdkTest\ServiceProviders\ProductServiceProvider;
-use Winston\MakeSdk\Base\Base;
+use Winston\MakeSdk\Base;
 
 /**
  * Class Dispatch

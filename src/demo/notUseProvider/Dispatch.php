@@ -1,6 +1,6 @@
 <?php
 namespace MakeSdkTest;
-use Winston\MakeSdk\Base\Base;
+use Winston\MakeSdk\Base;
 
 /**
  * Class Dispatch

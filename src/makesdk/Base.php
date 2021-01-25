@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Winston\MakeSdk\Base;
+namespace Winston\MakeSdk;
 
 use Pimple\Container;
 use Symfony\Component\HttpFoundation\Request;

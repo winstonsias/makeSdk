@@ -1,6 +1,6 @@
 <?php
 
-namespace Winston\MakeSdk\Base;
+namespace Winston\MakeSdk;
 
 use GuzzleHttp\Client as HttpClient;
 use GuzzleHttp\HandlerStack;

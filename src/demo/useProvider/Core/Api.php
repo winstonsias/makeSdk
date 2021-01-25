@@ -1,6 +1,6 @@
 <?php
 namespace MakeSdkTest\Core;
-use Winston\MakeSdk\Base\AbstractAPI;
+use Winston\MakeSdk\AbstractAPI;
 
 class Api extends AbstractAPI {
     public function __construct($info)
