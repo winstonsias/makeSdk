@@ -1,10 +1,10 @@
 <?php
 namespace MakeSdkTest;
-use Winston\MaketSdk\Base\Base;
+use Winston\MakeSdk\Base\Base;
 
 /**
  * Class Dispatch
- * @package Winston\MarketSdk
+ * @package MakeSdkTest
  * @method lists
  */
 class Dispatch extends Base {

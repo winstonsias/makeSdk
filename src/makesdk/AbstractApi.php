@@ -1,6 +1,6 @@
 <?php
 
-namespace Winston\MaketSdk\Base;
+namespace Winston\MakeSdk\Base;
 
 use Psr\Http\Message\RequestInterface;
 
