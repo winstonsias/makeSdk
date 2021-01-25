@@ -17,6 +17,6 @@
         "psr-4": {
             "Winston\\MakeSdk\\": "src/"
         }
-    },src
+    },
     "license": "MIT"
 }
