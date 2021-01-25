@@ -18,5 +18,5 @@
             "Winston\\MakeSdk\\": "src/"
         }
     },
-    "license": "winston"
+    "license": "MIT"
 }
