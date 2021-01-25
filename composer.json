@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Winston\\MakeSdk\\": "src/"
+            "Winston\\MakeSdk\\": "src/core"
         }
     },
     "license": "MIT"
