@@ -6,7 +6,6 @@ use Psr\Http\Message\RequestInterface;
 
 abstract class AbstractAPI
 {
-
     /**
      * Http instance.
      *
